@@ -19,7 +19,6 @@ This is a simple tool designed to contribute to making tasks easier for the hard
 ## Screenshots
 
 ![Main Window](assets/screenshot_main_window.png)
-*The main interface of the File Combiner application.*
 
 ---
 
